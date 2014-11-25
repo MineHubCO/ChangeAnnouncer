@@ -23,7 +23,7 @@ public class ChangeAnnouncer extends Plugin implements Listener{
     //Start Config
     private final String JOIN = "&7%s &ajoined &3Minehub Network";
     private final String CHANGE = "&7%s &aswitched to &b%s";
-    private final String LEAVE = "&c%s &4&oтев &3Minehub Network";
+    private final String LEAVE = "&7%s &4left &3Minehub Network";
     //End Config
 
     //Don't edit.

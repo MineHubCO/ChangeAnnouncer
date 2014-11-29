@@ -21,9 +21,9 @@ import java.util.UUID;
 public class ChangeAnnouncer extends Plugin implements Listener{
 
     //Start Config
-    private final String JOIN = "&c%s &7has joined &3Minehub Network&7!";
-    private final String CHANGE = "&c%s &7has switched to &c%s&7.";
-    private final String LEAVE = "&c%s &7has left &3Minehub Network&7.";
+    private final String JOIN = "&7%s &ajoined &3Minehub Network";
+    private final String CHANGE = "&7%s &aswitched to &b%s";
+    private final String LEAVE = "&7%s &4left &3Minehub Network";
     //End Config
 
     //Don't edit.
